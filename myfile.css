@@ -409,6 +409,7 @@ p {
 	max-width: 1200px;
 	margin: 0 auto;
 	padding: 100px 20px;
+	background-colour:green;
 }
 #about .col-left {
 	width: 250px;
@@ -456,6 +457,7 @@ p {
 	max-width: 1200px;
 	margin: 0 auto;
 	width: 90%;
+	background-image: linear-gradient(to right, gold, pink);
 }
 #contact .contact-items {
 	/* max-width: 400px; */
