@@ -202,7 +202,7 @@ p {
 #hero {
 	background-image: url(./img/nature.jpg);
 	background-size: cover;
-	background-position: top left;
+	background-position: bottom right;
 	position: relative;
 	z-index: 1;
 }
